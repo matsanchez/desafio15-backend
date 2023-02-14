@@ -1,0 +1,11 @@
+[ LOGGER ]  23-02-12 21:03:46  [WARN] : ruta  /api/auth/sdasdasd metodo GET no implementada
+[ LOGGER ]  23-02-12 21:03:50  [WARN] : ruta  /api/auth metodo GET no implementada
+[ LOGGER ]  23-02-12 21:03:53  [WARN] : ruta  /api/ metodo GET no implementada
+[ LOGGER ]  23-02-12 21:11:21  [WARN] : ruta  /123 metodo GET no implementada
+[ LOGGER ]  23-02-12 21:19:30  [WARN] : ruta  /info/sadasd metodo GET no implementada
+[ LOGGER ]  23-02-12 21:37:07  [WARN] : ruta  /info/dsadas metodo GET no implementada
+[ LOGGER ]  23-02-12 21:38:39  [WARN] : ruta  /api/auth/login123123 metodo GET no implementada
+[ LOGGER ]  23-02-12 21:42:37  [WARN] : ruta  /api/auth/login123 metodo GET no implementada
+[ LOGGER ]  23-02-12 22:47:12  [WARN] : ruta  /info12312 metodo GET no implementada
+[ LOGGER ]  23-02-12 22:47:29  [WARN] : ruta  /randoms metodo GET no implementada
+[ LOGGER ]  23-02-13 22:07:19  [WARN] : ruta  /favicon.ico metodo GET no implementada
