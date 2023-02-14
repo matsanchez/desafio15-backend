@@ -55,11 +55,11 @@ Ingresas en el navegador http://localhost (si usas nginx)
 Sino ingresas directamente a http://localhost:8080 o el puerto que hayas seleccionado
 ```
 
-# Corremos en lineas de comando _node --prof .\src\app.js_
+Corremos en lineas de comando _node --prof .\src\app.js_
 
-# Luego lo procesamos _node --prof-process isolate-000001BCAA46D590-6096-v8.log > result_prof.txt_
+Luego lo procesamos _node --prof-process isolate-000001BCAA46D590-6096-v8.log > result_prof.txt_
 
-# Y realizamos un text de carga y guardamos los resultados en un archivo
+Y realizamos un text de carga y guardamos los resultados en un archivo
 
 _artillery quick --count 20 -n 50 "http://localhost:8080/info" > result_bloq_info.txt_
 
